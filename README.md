@@ -2,7 +2,7 @@
 - 👋 Olá, meu nome é @Gustavo5843..
 - :+1: Meu email de contato é costa.gustavo25@escola.pr.gov.br
 - ✨ Eu estou interessado em aprender a programar novas linguagens
-
+- ⚡ Eu estou aprendendo recentemente a programar a linguagem de JavaScript e Scratch.
 
 <!---
 Gustavo5843/Gustavo5843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
